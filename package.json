@@ -1,0 +1,12 @@
+{
+    "name": "caching-proxy",
+    "version": "1.0.0",
+    "description": "A CLI caching proxy server that forwards requests and caches responses",
+    "main": "catchingProxy.js",
+    "bin": {
+      "caching-proxy": "./catchingProxy.js"
+    },
+    "keywords": ["proxy", "cache", "http", "server"],
+    "author": "Joseph B",
+    "license": "MIT"
+  }
